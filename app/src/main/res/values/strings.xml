@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TheBooker</string>
+    <string name="title_home">Matches</string>
+    <string name="title_more_soon">More soon</string>
+    <string name="book_available_at">Książka dostępna w</string>
+    <string name="offer_check">Sprawdź!</string>
+</resources>
